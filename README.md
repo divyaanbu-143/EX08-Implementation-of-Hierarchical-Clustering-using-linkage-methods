@@ -25,8 +25,8 @@ To implement Hierarchical Clustering using single and complete linkage method
 ## Program:
 ```
 Program to implement Hierarchical Clustering using single and complete linkage method
-Developed by: Madhu Mitha V
-RegisterNumber: 2305002013
+Developed by: Divya A
+RegisterNumber: 2305002007
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt 
